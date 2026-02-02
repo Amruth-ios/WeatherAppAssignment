@@ -104,11 +104,6 @@ User-friendly messages are displayed instead of raw errors.
 - Location-based weather fetch
 - Auto-loading last searched city
 
-### What Is Not Tested
-- SwiftUI layout details
-- Animations
-- System frameworks (CoreLocation, URLSession)
-
 ---
 
 ## Build & Run
