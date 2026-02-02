@@ -111,23 +111,6 @@ User-friendly messages are displayed instead of raw errors.
 
 ---
 
-## Requirements Coverage
-
-| Requirement | Status |
-|------------|--------|
-Search by US city | ✅ |
-Weather API integration | ✅ |
-Weather icon display | ✅ |
-Image caching | ✅ |
-Auto-load last city | ✅ |
-Location permission | ✅ |
-Location-based weather | ✅ |
-Defensive error handling | ✅ |
-Clean architecture | ✅ |
-Unit tests | ✅ |
-
----
-
 ## Build & Run
 
 1. Clone the repository
@@ -145,19 +128,3 @@ Unit tests | ✅ |
 - UI design is intentionally simple to prioritize functionality and architecture
 
 ---
-
-## Given More Time
-
-If extended further, the following improvements could be added:
-- Hourly / daily forecasts
-- Offline caching of recent weather data
-- Settings screen for units (°F / °C)
-- Snapshot UI tests
-- CI integration for automated testing
-
----
-
-## Author
-
-**Amruth Kallyam**  
-iOS Engineer
